@@ -16,12 +16,12 @@ background-attachment: fixed;
 
 }
 .preloader{
-    background: url("https://media.giphy.com/media/jAYUbVXgESSti/giphy.gif") no-repeat center ;
+    background: url("loading.gif") no-repeat center ;
     background-color: white;
      width: 100%;
      height:100vh;
      position: fixed;
-     z-index: 2;
+     z-index: 5;
      
  }
 .modal{
@@ -207,6 +207,6 @@ h2{  margin-top: 45px;
         height: 60vh;
     }
     body{
-        background-size: 120vw auto;
+        background-size: 100% 100vh;
     }
 }

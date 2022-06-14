@@ -38,7 +38,7 @@ function photos(animalswallpaper) {
 
 
     section.innerHTML = initial.map((e) => {
-        return ` <img src="${e.image}" alt="" class="modalimg" loading ="lazy">
+        return ` <img src="${e.image}" alt="" class="modalimg" >
         <h2 class="name">${e.name}</h2>
           <ul class ="dot1"></ul>`
     })
@@ -64,7 +64,7 @@ function photos(animalswallpaper) {
 
 function modalseries() {
     section.innerHTML = viewmodal.map((e) => {
-        return ` <img src="${e.image}" alt="" class="modalimg" loading ="lazy">
+        return ` <img src="${e.image}" alt="" class="modalimg" >
     <h2 class="name">${e.name}</h2>
     <ul class ="dot1"></ul>`
     })
