@@ -1,47 +1,47 @@
 const animals = [
   {
     name: "animal 1",
-    image: "./wallpaper/animals/alejandro-contreras-wTPp323zAEw-unsplash.jpg",
+    image: "https://source.unsplash.com/random/?lion",
     serial: 1
   },
   {
     name: "animal 2",
-    image: "./wallpaper/animals/andreas-dress-Iw12lY3koDk-unsplash.jpg",
+    image: "https://source.unsplash.com/random/?leopard",
     serial: 2
   },
   {
     name: "animal 3",
-    image: "./wallpaper/animals/andy-holmes-D6TqIa-tWRY-unsplash.jpg",
+    image: "https://source.unsplash.com/random/?panda",
     serial: 3
   },
   {
     name: "animal 4",
-    image: "./wallpaper/animals/david-clode-7_TTPznVIQI-unsplash.jpg",
+    image: "https://source.unsplash.com/random/?flamingo",
     serial: 4
   },
   {
     name: "animal 5",
-    image: "./wallpaper/animals/deepak-nautiyal-Nbv7PkL_rvI-unsplash.jpg",
+    image: "https://source.unsplash.com/random/?bat",
     serial: 5
   },
   {
     name: "animal 6",
-    image: "./wallpaper/animals/edgar-nKC772R_qog-unsplash.jpg",
+    image: "https://source.unsplash.com/random/?elephant",
     serial: 6
   },
   {
     name: "animal 7",
-    image: "./wallpaper/animals/hans-jurgen-mager-Fbdr6gXJBVY-unsplash.jpg",
+    image: "https://source.unsplash.com/random/?horse",
     serial: 7
   },
   {
     name: "animal 8",
-    image: "./wallpaper/animals/hans-jurgen-mager-qQWV91TTBrE-unsplash.jpg",
+    image: "https://source.unsplash.com/random/?donkey",
     serial: 8
   },
   {
     name: "animal 9",
-    image: "./wallpaper/animals/wexor-tmg-L-2p8fapOA8-unsplash.jpg",
+    image: "https://source.unsplash.com/random/?cat",
     serial: 9
   }
 ]
