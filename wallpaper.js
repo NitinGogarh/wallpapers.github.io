@@ -47,69 +47,69 @@ const animals = [
 ]
 const cricket = [{
   name: "Cricket 1",
-  image: "./wallpaper/cricket/yogendra-singh-dE3exzmYlKc-unsplash.jpg",
+  image:"https://source.unsplash.com/gywHscPZwMM" ,
   serial: 1
 },
 {
   name: "Cricket 2",
-  image: "./wallpaper/cricket/chirayu-trivedi-iDTDvSDEVjw-unsplash.jpg",
+  image: "https://source.unsplash.com/bY4cqxp7vos",
   serial: 2
 },
 {
   name: "Cricket 3",
-  image: "./wallpaper/cricket/marcus-wallis-mUtQXjjLPbw-unsplash.jpg",
+  image: "https://source.unsplash.com/dpd3Hn47ojg",
   serial: 3
 },
 {
   name: "Cricket 4",
-  image: "./wallpaper/cricket/michael-weir-dpd3Hn47ojg-unsplash.jpg",
+  image: "https://source.unsplash.com/ELxsvsbGCo4",
   serial: 4
 },
 {
   name: "Cricket 5",
-  image: "./wallpaper/cricket/mudassir-ali-DvreeyPXQww-unsplash.jpg",
+  image: "https://source.unsplash.com/-I_JAJNXJZs",
   serial: 5
 },
 {
   name: "Cricket 6",
-  image: "./wallpaper/cricket/vicky-adams-gywHscPZwMM-unsplash.jpg",
+  image: "https://source.unsplash.com/7CMKUb9EV90",
   serial: 6
 },]
 
 const dogs = [
   {
     name: "Dog 1",
-    image: "./wallpaper/dog/alvan-nee-brFsZ7qszSY-unsplash.jpg",
+    image: "https://source.unsplash.com/p_qco2Eo-E0",
     serial: 1
   },
   {
     name: "Dog 2",
-    image: "./wallpaper/dog/charlesdeluvio-Mv9hjnEUHR4-unsplash.jpg",
+    image: "https://source.unsplash.com/VQJXJ4IaU_o",
     serial: 2
   },
   {
     name: "Dog 3",
-    image: "./wallpaper/dog/marliese-streefland-2l0CWTpcChI-unsplash.jpg",
+    image: "https://source.unsplash.com/wFbkj9ilGnQ",
     serial: 3
   },
   {
     name: "Dog 4",
-    image: "./wallpaper/dog/pauline-loroy-U3aF7hgUSrk-unsplash.jpg",
+    image: "https://source.unsplash.com/rFao8fcvTdY",
     serial: 4
   },
   {
     name: "Dog 5",
-    image: "./wallpaper/dog/richard-brutyo-Sg3XwuEpybU-unsplash.jpg",
+    image: "https://source.unsplash.com/_LdSmr08lAk",
     serial: 5
   },
   {
     name: "Dog 6",
-    image: "./wallpaper/dog/taylor-kopel-WX4i1Jq_o0Y-unsplash.jpg",
+    image: "https://source.unsplash.com/YRUzuSC48Zs",
     serial: 6
   },
   {
     name: "Dog 7",
-    image: "./wallpaper/dog/t-r-photography-TzjMd7i5WQI-unsplash.jpg",
+    image: "https://source.unsplash.com/Ytp_K5bwa0Q",
     serial: 7
   },
 
@@ -117,152 +117,152 @@ const dogs = [
 
 const games = [{
   name: "Game 1",
-  image: "./wallpaper/games/carl-raw-m3hn2Kn5Bns-unsplash.jpg",
+  image:"https://source.unsplash.com/J7Spe1GTCUw",
   serial: 1
 },
 {
   name: "Game 2",
-  image: "./wallpaper/games/christopher-farrugia-2yQtqBqzDRo-unsplash.jpg",
+  image: "https://source.unsplash.com/9yp49VxqwCo",
   serial: 2
 },
 {
   name: "Game 3",
-  image: "./wallpaper/games/florian-olivo-Mf23RF8xArY-unsplash.jpg",
+  image: "https://source.unsplash.com/q0HdSgdNBNM",
   serial: 3
 },
 {
   name: "Game 4",
-  image: "./wallpaper/games/hassan-pasha-7SjEuEF06Zw-unsplash.jpg",
+  image: "https://source.unsplash.com/7lzIyp2Ork4",
   serial: 4
 },
 {
   name: "Game 5",
-  image: "./wallpaper/games/jakub-sisulak-L1AEdl-iLL4-unsplash.jpg",
+  image: "https://source.unsplash.com/XC3fq-ffXRI",
   serial: 5
 },
 {
   name: "Game 6",
-  image: "./wallpaper/games/joel-abraham-8RRYJg26Wr4-unsplash.jpg",
+  image: "https://source.unsplash.com/0oqMvhc1ntw",
   serial: 6
 },
 {
   name: "Game 7",
-  image: "./wallpaper/games/lorenzo-herrera-p0j-mE6mGo4-unsplash.jpg",
+  image:"https://source.unsplash.com/oI6zrBj3nKw",
   serial: 7
 },
 {
   name: "Game 8",
-  image: "./wallpaper/games/nadine-shaabana-YsPnamiHdmI-unsplash.jpg",
+  image: "https://source.unsplash.com/HVYepJYeHdQ",
   serial: 8
 },
 {
   name: "Game 9",
-  image: "./wallpaper/games/nikita-kachanovsky-FJFPuE1MAOM-unsplash.jpg",
+  image: "https://source.unsplash.com/Mf23RF8xArY",
   serial: 9
 },
 {
   name: "Game 10",
-  image: "./wallpaper/games/sebastiaan-stam-5hBREM-5mnQ-unsplash.jpg",
+  image: "https://source.unsplash.com/EHLd2utEf68",
   serial: 10
 },]
 
 const pubg = [{
   name: "PUBG 1",
-  image: "./wallpaper/pubg/anastase-maragos-YV6hrOd3fQ0-unsplash.jpg",
+  image: "https://source.unsplash.com/09y0d02zfnY",
   serial: 1
 },
 {
   name: "PUBG 2",
-  image: "./wallpaper/pubg/clint-bustrillos-5zvziFY-yj8-unsplash.jpg",
+  image: "https://source.unsplash.com/DVbf1r8tmUM",
   serial: 2
 },
 {
   name: "PUBG 3",
-  image: "./wallpaper/pubg/onur-binay-cQ90QkreiPQ-unsplash.jpg",
+  image: "https://source.unsplash.com/FKY2e48lq00",
   serial: 3
 },
 {
   name: "PUBG 4",
-  image: "./wallpaper/pubg/screen-post-hIXmJH9xhoo-unsplash.jpg",
+  image: "https://source.unsplash.com/cQ90QkreiPQ",
   serial: 4
 },
 {
   name: "PUBG 5",
-  image: "./wallpaper/pubg/wtfast-Febr-q21HHs-unsplash.jpg",
+  image: "https://source.unsplash.com/Febr-q21HHs",
   serial: 5
 },
 {
   name: "PUBG 6",
-  image: "./wallpaper/pubg/wtfast-Lafa9ZfnLxw-unsplash.jpg",
+  image: "https://source.unsplash.com/hIXmJH9xhoo",
   serial: 6
 },]
 
 const nature= [{
   name: "NATURE 1",
-  image: "./wallpaper/nature/blake-verdoorn-cssvEZacHvQ-unsplash.jpg",
+  image: "https://source.unsplash.com/jFCViYFYcus",
   serial: 1
 },{
   name: "NATURE 2",
-  image: "./wallpaper/nature/daniel-roe-lpjb_UMOyx8-unsplash.jpg",
+  image: "https://source.unsplash.com/VowIFDxogG4",
   serial: 2
 },
 {
   name: "NATURE 3",
-  image: "./wallpaper/nature/dave-hoefler-lsoogGC_5dg-unsplash.jpg",
+  image: "https://source.unsplash.com/v4e3JI7DDHI",
   serial: 3
 },
 {
   name: "NATURE 4",
-  image: "./wallpaper/nature/dawid-zawila--G3rw6Y02D0-unsplash.jpg",
+  image: "https://source.unsplash.com/TFyi0QOx08c",
   serial: 4
 },
 {
   name: "NATURE 5",
-  image: "./wallpaper/nature/federico-respini-sYffw0LNr7s-unsplash.jpg",
+  image: "https://source.unsplash.com/pHANr-CpbYM",
   serial: 5
 },
 {
   name: "NATURE 6",
-  image: "./wallpaper/nature/henry-be-IicyiaPYGGI-unsplash.jpg",
+  image: "https://source.unsplash.com/tGTVxeOr_Rs",
   serial: 6
 },
 {
   name: "NATURE 7",
-  image: "./wallpaper/nature/lukasz-szmigiel-jFCViYFYcus-unsplash.jpg",
+  image: "https://source.unsplash.com/sYffw0LNr7s",
   serial: 7
 },
 {
   name: "NATURE 8",
-  image: "./wallpaper/nature/niko-photos-tGTVxeOr_Rs-unsplash.jpg",
+  image: "https://source.unsplash.com/y2azHvupCVo",
   serial: 8
 },
 {
   name: "NATURE 9",
-  image: "./wallpaper/nature/qingbao-meng-01_igFr7hd4-unsplash.jpg",
+  image: "https://source.unsplash.com/xg8z_KhSorQ",
   serial: 9
 },
 {
   name: "NATURE 10",
-  image: "./wallpaper/nature/robert-lukeman-_RBcxo9AU-U-unsplash.jpg",
+  image: "https://source.unsplash.com/-G3rw6Y02D0",
   serial: 10
 },
 {
   name: "NATURE 11",
-  image: "./wallpaper/nature/silvestri-matteo-6-C0VRsagUw-unsplash.jpg",
+  image: "https://source.unsplash.com/mBQIfKlvowM",
   serial: 11
 },
 {
   name: "NATURE 12",
-  image: "./wallpaper/nature/tim-swaan-eOpewngf68w-unsplash.jpg",
+  image: "https://source.unsplash.com/lsoogGC_5dg",
   serial: 12
 },
 {
   name: "NATURE 13",
-  image: "./wallpaper/nature/v2osk-1Z2niiBPg5A-unsplash.jpg",
+  image: "https://source.unsplash.com/_RBcxo9AU-U",
   serial: 13
 },
 {
   name: "NATURE 14",
-  image: "./wallpaper/nature/sapan-patel-i9Q9bc-WgfE-unsplash.jpg",
+  image: "https://source.unsplash.com/IicyiaPYGGI",
   serial: 14
 },]
